@@ -1,0 +1,41 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="416" height="832" viewBox="0 0 416 832" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Fifi">
+<path id="Vector" d="M0 104V0L150 104H0Z" fill="#F0C9A0"/>
+<path id="Vector_2" d="M416 104V0L266 104H416Z" fill="#8B8E9C"/>
+<path id="Rectangle" d="M0 536C0 469.726 53.7258 416 120 416H208V832H0V536Z" fill="#6E7180"/>
+<g id="Body right">
+<g clip-path="url(#clip0_0_4)">
+<path d="M208 416H296C362.274 416 416 469.726 416 536V832H208V416Z" fill="#8B8E9C"/>
+<circle id="Ellipse" cx="416" cy="666" r="100" fill="#F0C9A0"/>
+</g>
+</g>
+<path id="Vector_3" d="M128 416H288L208 596L128 416Z" fill="#FFFDF8"/>
+<path id="Rectangle_2" d="M52 736C52 705.072 77.0721 680 108 680V680C138.928 680 164 705.072 164 736V832H52V736Z" fill="#FFFDF8"/>
+<g id="Head">
+<g clip-path="url(#clip1_0_4)">
+<rect id="Rectangle_3" y="104" width="208" height="312" fill="#8B8E9C"/>
+<rect id="Rectangle_4" x="208" y="104" width="208" height="312" fill="#F0C9A0"/>
+<circle id="Forehead patch" cx="208" cy="104" r="110" fill="#F0C9A0"/>
+<ellipse id="Ellipse_2" cx="208" cy="365" rx="95" ry="65" fill="#FFFDF8"/>
+<circle id="Ellipse_3" cx="312" cy="234" r="60" fill="#FFFDF8"/>
+<circle id="Ellipse_4" cx="312" cy="234" r="45" fill="#24262E"/>
+<circle id="Ellipse_5" cx="294" cy="212" r="12" fill="#FFFDF8"/>
+<path id="Vector_4" d="M186 312H230L208 338L186 312Z" fill="#D97388"/>
+<path id="Vector_5" d="M124 336L60 318" stroke="#FFFDF8" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_6" d="M120 348H54" stroke="#FFFDF8" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_7" d="M124 360L78 372" stroke="#FFFDF8" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_8" d="M292 336L356 318" stroke="#24262E" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_9" d="M296 348H362" stroke="#24262E" stroke-width="4" stroke-linecap="round"/>
+<path id="Vector_10" d="M292 360L338 372" stroke="#24262E" stroke-width="4" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<path d="M208 416H296C362.274 416 416 469.726 416 536V832H208V416Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_0_4">
+<path d="M0 104H416V208C416 322.875 322.875 416 208 416V416C93.1248 416 0 322.875 0 208V104Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
